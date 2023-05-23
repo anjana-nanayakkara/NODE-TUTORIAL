@@ -1,0 +1,6 @@
+output
+
+Data read from input.txt: hello im text file. 
+Date created Tue May 23 2023 12:40:44 GMT+0530 (India Standard Time)
+
+Tue May 23 2023 13:51:44 GMT+0530 (India Standard Time)
